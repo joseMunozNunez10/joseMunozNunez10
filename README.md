@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-munoz-nunez-778924b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-munoz-nunez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/joseMunozNunez10" target="_blank">
@@ -137,7 +137,7 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 ---
 
 ## 📬 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-munoz-nunez-778924b2/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-munoz-nunez/)  
 - 🐙 [GitHub](https://github.com/joseMunozNunez10)  
 - 📧 Email: jose.munoz.nunez@gmail.com
 
