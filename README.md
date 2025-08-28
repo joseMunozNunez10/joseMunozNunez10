@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/joseMunozNunez10/joseMunoznunez/blob/main/Banner%20Para%20Linkedin%20Recursos%20Humanos%20Fotogr%C3%A1fico%20Gris%20Claro.png" width="100%">
+  <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/Banner%20Para%20Linkedin%20Recursos%20Humanos%20Fotogr%C3%A1fico%20Gris%20Claro.png" width="100%">
 </p>
 
 <h1 align="center">🚀 José Muñoz | Fullstack Developer | Python / Django / Android</h1>
