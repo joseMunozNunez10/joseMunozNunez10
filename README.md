@@ -69,7 +69,7 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 <div align="center">
 
 ### 🚗 Transportes Mazem
-[![Transportes Mazem](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/Captura%20de%20pantalla%202025-08-17%20124920.png?raw=true)](https://www.transportesmazem.cl)  
+[![Transportes Mazem](https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/pantallazo_mazem.png)](https://www.transportesmazem.cl)  
 *Sistema de gestión para empresa de transporte ejecutivo*
   
 [![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/Transportes_Mazem)
