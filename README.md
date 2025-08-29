@@ -75,6 +75,7 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 [![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/Transportes_Mazem)
 [![Sitio Web](https://img.shields.io/badge/Visitar_Sitio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.transportesmazem.cl)
 
+<!--
 ---
 
 ### 🏗️ Maestranza San Sebastián
@@ -92,36 +93,32 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 [![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/Dulce_Hogar)
 
 ---
+-->
 
-### 🍮 OnlyFlans
-[![OnlyFlans](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/Onlyflans.png?raw=true)](https://onlyflans.cl)  
-*E-commerce para repostería*
 
-[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/onlyFlans-app)
 
 </div>
 
 ---
-<!--
+
 
 ## 📱 Aplicaciones Android
 
 <div align="center">
 
-### 📊 Gestor Financiero Personal
-[![Play Store Badge](https://img.shields.io/badge/Disponible_en_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tuapp.financiero)  
-*Aplicación para gestión de finanzas personales*
+### 📊 Calculadora de Propinas
+[![Calculadora de Propinas](https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/calculadora.png)  
+*Aplicación para calcular porcentaje de pripina y valor cuota por persona*
+
 
 ---
 
-### 🗓️ Organizador de Tareas
-[![Play Store Badge](https://img.shields.io/badge/Disponible_en_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tuapp.tareas)  
-*Task manager con sincronización en la nube*
+
 
 </div>
 
 ---
--->
+
 
 ## 📊 Estadísticas de GitHub
 
