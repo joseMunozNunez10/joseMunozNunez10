@@ -107,8 +107,11 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 <div align="center">
 
 ### 📊 Calculadora de Propinas
-[![Calculadora de Propinas](https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/calculadora.png)  
-*Aplicación para calcular porcentaje de pripina y valor cuota por persona*
+![Calculadora de Propinas](https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/calculadora.png) <br> <br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6F00?style=for-the-badge&logo=xml&logoColor=white) <br> <br>
+*Una aplicación Android elegante y funcional para calcular propinas y dividir cuentas fácilmente.*
 
 
 ---
