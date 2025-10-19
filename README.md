@@ -15,12 +15,6 @@
   <a href="https://github.com/joseMunozNunez10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- Si tienes Play Store, reemplaza TU-ID -->
-  <!--
-  <a href="https://play.google.com/store/apps/developer?id=TU-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
-  </a>
-  -->
 </p>
 
 ---
@@ -68,60 +62,61 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 
 <div align="center">
 
-### 🚗 Transportes Mazem
-[![Transportes Mazem](https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/pantallazo_mazem.png)](https://www.transportesmazem.cl)  
-*Sistema de gestión para empresa de transporte ejecutivo*
-  
-[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/Transportes_Mazem)
-[![Sitio Web](https://img.shields.io/badge/Visitar_Sitio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.transportesmazem.cl)
-
-<!--
----
-
-### 🏗️ Maestranza San Sebastián
-[![Maestranza San Sebastian](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/sansebastian.png?raw=true)](https://maestranzasansebastian.cl)  
-*Portal web para empresa metalúrgica*
-
-[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/San_Sebastian)
-
----
-
-### 🏠 Dulce Hogar
-[![Dulce Hogar](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/dulce%20hogar.png?raw=true)](https://dulcehogar.cl)  
-*Plataforma de compra/venta de inmuebles*
-
-[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/Dulce_Hogar)
-
----
--->
-
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🚗 Transportes Mazem</h3>
+      <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/redimension.png" width="100%">
+      <p><em>Sistema de gestión para empresa de transporte ejecutivo</em></p>
+      <div>
+        <a href="https://github.com/joseMunozNunez10/Transportes_Mazem" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://www.transportesmazem.cl" target="_blank">
+          <img src="https://img.shields.io/badge/Visitar_Sitio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+        </a>
+      </div>
+    </td>
+   
+</table>
 
 </div>
 
 ---
-
 
 ## 📱 Aplicaciones Android
 
 <div align="center">
 
-### 📊 Calculadora de Propinas
-![Calculadora de Propinas](https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/calculadora.png) <br> <br>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6F00?style=for-the-badge&logo=xml&logoColor=white) <br> <br>
-*Una aplicación Android elegante y funcional para calcular propinas y dividir cuentas fácilmente.*
-
-
----
-
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📝 Gestor de Tareas</h3>
+      <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/agenda%20personal%20final.png" >
+      <p><em>Aplicación móvil para organización personal <br> Agenda Personal</em></p>
+      <div>
+        <a href="https://github.com/joseMunozNunez10/gestor_tareas" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎯 Próximos Proyectos</h3>
+      <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/referidos%20canvas.png" width="100%">
+      <p><em>Más aplicaciones en desarrollo <br> Referidos App</em></p>
+      <div>
+        <img src="https://img.shields.io/badge/En_Desarrollo-FF6B6B?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-
 
 ## 📊 Estadísticas de GitHub
 
@@ -140,5 +135,22 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-munoz-nunez/)  
 - 🐙 [GitHub](https://github.com/joseMunozNunez10)  
 - 📧 Email: jose.munoz.nunez@gmail.com
+
+---
+
+## 🎯 Enfoque y Metodología
+
+<p align="center">
+  <strong>Desarrollo Fullstack | Clean Code | UX/UI Focus | Agile Methodology</strong>
+</p>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django)
+![Android](https://img.shields.io/badge/Android-Intermediate-3DDC84?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-0095D5?style=flat-square&logo=kotlin)
+
+</div>
 
 ---
