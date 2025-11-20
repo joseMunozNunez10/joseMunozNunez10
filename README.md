@@ -87,34 +87,54 @@ Busco colaborar en proyectos innovadores que generen impacto real.
 ## 📱 Aplicaciones Android
 
 <div align="center">
-
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>📝 Gestor de Tareas</h3>
-      <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/agenda%20personal%20final.png" >
-      <p><em>Aplicación móvil para organización personal <br> Agenda Personal</em></p>
+    <!-- PROYECTO 1 -->
+    <td width="33%" align="center">
+      <h3>🎓 Gala 8vo Taiel</h3>
+      <!-- Imagen principal -->     
       <div>
-        <a href="https://github.com/joseMunozNunez10/gestor_tareas" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+        <!-- Galería de imágenes -->
+        <a href="https://github.com/joseMunozNunez10/Gala8voTaiel" target="_blank">
+          <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/Imagen%20de%20WhatsApp%202025-11-20%20a%20las%2017.27.10_c79b78dd.jpg" width="28%">
+          <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/Imagen%20de%20WhatsApp%202025-11-20%20a%20las%2017.28.20_4ca39595.jpg" width="28%">
         </a>
+        <p><em>Aplicación móvil para gestión de evento y muro social<br> Gala 8vo Taiel</em></p>
+        <br><br>
+        <!-- Badges -->
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+      </div>
+    </td>
+    <!-- PROYECTO 2 -->
+    <td width="33%" align="center">
+      <h3>📝 Gestor de Tareas</h3>
+      <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/agenda%20personal%20final.png" width="90%">
+      <p><em>Aplicación móvil para organización personal<br> Agenda Personal</em></p>
+      <div>
+        <a href="https://github.com/joseMunozNunez10/gestor_tareas" target="_blank">          
+        </a>
+        <br><br>
         <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
       </div>
     </td>
-    <td width="50%" align="center">
+    <!-- PROYECTO 3 -->
+    <td width="33%" align="center">
       <h3>🎯 Próximos Proyectos</h3>
-      <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/referidos%20canvas.png" width="100%">
-      <p><em>Más aplicaciones en desarrollo <br> Referidos App</em></p>
+      <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/referidos%20canvas.png" width="90%">
+      <p><em>Más aplicaciones en desarrollo<br> Referidos App</em></p>
       <div>
         <img src="https://img.shields.io/badge/En_Desarrollo-FF6B6B?style=for-the-badge">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
       </div>
     </td>
+
   </tr>
 </table>
-
 </div>
+
 
 ---
 
